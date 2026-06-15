@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "name": "Ravi Varma",
+      "email": "ravi12@gmail.com",
+      "password": "Ravi@12",
+      "id": "IZmoD-_4r7s"
+    },
+    {
+      "name": "trqqixjqxh",
+      "email": "ravi00@gmail.com",
+      "password": "Ravi@00",
+      "id": "dUBRnE7Ad3g"
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "userId": "IZmoD-_4r7s",
+      "items": [
+        {
+          "userId": "IZmoD-_4r7s",
+          "productId": "5",
+          "name": "Sony WH-1000XM5",
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+          "price": 29999,
+          "quantity": 1,
+          "id": "VyFXH9Z4dW4"
+        }
+      ],
+      "total": 29999,
+      "date": "6/15/2026",
+      "status": "Order Placed",
+      "id": "5TPHKpAjzYs"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 15 Pro",
+      "category": "Mobile",
+      "price": 129999,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=600",
+      "description": "Apple flagship smartphone with A17 Pro chip, premium camera quality and smooth performance."
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S24",
+      "category": "Mobile",
+      "price": 89999,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=600",
+      "description": "Premium Android smartphone with excellent display, camera and AI features."
+    },
+    {
+      "id": "4",
+      "name": "Dell XPS 15",
+      "category": "Laptop",
+      "price": 99999,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600",
+      "description": "High-performance laptop with powerful processor and premium design."
+    },
+    {
+      "id": "5",
+      "name": "Sony WH-1000XM5",
+      "category": "Electronics",
+      "price": 29999,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+      "description": "Wireless noise cancelling headphones with excellent sound quality."
+    },
+    {
+      "id": "6",
+      "name": "Apple Watch Series 9",
+      "category": "Wearables",
+      "price": 45999,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=600",
+      "description": "Smartwatch with health tracking, fitness features and stylish design."
+    },
+    {
+      "id": "7",
+      "name": "Canon EOS R10",
+      "category": "Camera",
+      "price": 84999,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600",
+      "description": "Mirrorless camera suitable for photography, travel vlogs and content creation."
+    },
+    {
+      "id": "8",
+      "name": "Nike Air Max",
+      "category": "Fashion",
+      "price": 8999,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
+      "description": "Comfortable and stylish running shoes for daily use."
+    },
+    {
+      "id": "9",
+      "name": "Gaming Keyboard",
+      "category": "Accessories",
+      "price": 4999,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=600",
+      "description": "Mechanical RGB keyboard for gaming and fast typing."
+    },
+    {
+      "id": "10",
+      "name": "Gaming Mouse",
+      "category": "Accessories",
+      "price": 2999,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=600",
+      "description": "High precision gaming mouse with smooth controls."
+    },
+    {
+      "id": "11",
+      "name": "Smart LED TV",
+      "category": "Electronics",
+      "price": 54999,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=600",
+      "description": "55-inch 4K Ultra HD Smart Television with clear picture quality."
+    },
+    {
+      "id": "12",
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 6999,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600",
+      "description": "Portable Bluetooth speaker with deep bass and long battery life."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
